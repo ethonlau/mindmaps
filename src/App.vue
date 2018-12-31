@@ -4,7 +4,7 @@
     <div class="tip">
       <span>Tab</span>添加子节点
       <span>Enter</span>添加同级节点
-      <span>Shift + Delete</span>删除当前节点
+      <span>Ctrl + Delete</span>删除当前节点
     </div>
     <div class="clear-btn" @click="clearModel">清空画布</div>
   </div>
